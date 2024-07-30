@@ -1,6 +1,8 @@
 # Phigros_Resource
 
 对Phigros中的曲绘、tips、收集品、头像进行整理。一切内容版权属于南京鸽游网络有限公司（Pigeon Games）
+内容多来自解包，部分内容来源于萌娘百科
+如有侵权请联系删除
 
 ## 收藏品(Collection)
 
