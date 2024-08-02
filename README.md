@@ -10,7 +10,7 @@
 
 ### 主线章节(Main_Story)
 
-#### [第一章：冰封世界](https://github.com/weizhizhuangwzz/Phigros_Resource/blob/9750d7c920e14050e6f06280f5c221a751c8edfd/COLLECTION/COLLECTION_MainStory_Chapter1.md)
+#### [第一章：冰封世界](https://github.com/NanLiang-Works-Inc/Phigros_Resource/blob/main/COLLECTION/COLLECTION_MainStory_Chapter1.md)
 
 #### 第二章：废土之下
 
@@ -44,4 +44,4 @@
 
 ## 头像(Avatar)
 
-## [Tips](https://github.com/NanLiang-Works-Inc/Phigros_Resource/blob/e778f13a52ff4e8e1f16b2432c24ad8a2db276bf/TIPS/TIPS.md)
+## [Tips](https://github.com/NanLiang-Works-Inc/Phigros_Resource/blob/main/TIPS/TIPS.md)
