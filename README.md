@@ -14,7 +14,8 @@
 
 #### [第二章：废土之下](https://github.com/NanLiang-Works-Inc/Phigros_Resource/blob/main/COLLECTION/COLLECTION_MainStory_Chapter2.md)
 
-#### 第三章：幽蓝边界
+#### [第三章：幽蓝边界]
+(https://github.com/HWYL520/Phigros_Resource/blob/main/COLLECTION/COLLECTION_MainStory_Chapter3.md)
 
 #### 第四章：管道迷宫
 
