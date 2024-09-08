@@ -1,3 +1,5 @@
+![Chapter3](https://github.com/HWYL520/Phigros_Resource/blob/main/temp/1FC15C5B1BA3DF47FE4672FC62C9D027.jpg)
+
 ## **第三章 幽蓝边界**
 
 ### 诗笺#12·战士
