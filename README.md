@@ -1,4 +1,4 @@
-# Phigros_Resource
+# Phigros_Resource暂停维护，回复时间待定
 
 对Phigros中的曲绘、tips、收集品、头像进行整理。一切内容版权属于南京鸽游网络有限公司（Pigeon Games）
 
