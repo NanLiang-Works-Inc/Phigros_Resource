@@ -44,6 +44,6 @@
 
 ## 曲绘(Illustration)
 
-## 头像(Avatar)
+## [头像(Avatar)](https://github.com/husbvt/Phigros_Resource/tree/main/AVATAR)
 
 ## [Tips](https://github.com/NanLiang-Works-Inc/Phigros_Resource/blob/main/TIPS/TIPS.md)
