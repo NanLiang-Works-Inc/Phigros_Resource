@@ -42,7 +42,7 @@
 
 ### 额外章节
 
-## 曲绘(Illustration)
+## [曲绘(Illustration)](https://github.com/husbvt/Phigros_Resource/tree/main/ILLUSTRATION)
 
 ## [头像(Avatar)](https://github.com/husbvt/Phigros_Resource/tree/main/AVATAR)
 
