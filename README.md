@@ -34,7 +34,7 @@
 
 #### 支线三：盗乐行
 
-#### 支线四：无相乡（等待中……）
+#### 支线四：无相乡
 
 ### Extra Story
 
@@ -42,8 +42,8 @@
 
 ### 额外章节
 
-## 曲绘(Illustration)
+## [曲绘(Illustration)](https://github.com/husbvt/Phigros_Resource/tree/main/ILLUSTRATION)
 
-## 头像(Avatar)
+## [头像(Avatar)](https://github.com/husbvt/Phigros_Resource/tree/main/AVATAR)
 
 ## [Tips](https://github.com/NanLiang-Works-Inc/Phigros_Resource/blob/main/TIPS/TIPS.md)
